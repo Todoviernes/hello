@@ -1,0 +1,1 @@
+Hey this is my first Heroku app and here on the public directory its the place to put all the statics files
